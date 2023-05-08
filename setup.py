@@ -20,7 +20,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "PyOvpn",
+    name = "pyovpn",
     version = "0.2.1",
     url = 'https://github.com/ekaputra07/pyovpn',
     description = 'Simple Python Open VPN Client.',
